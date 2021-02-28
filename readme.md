@@ -10,7 +10,7 @@
  
  ************************************************************************
  
- Emulacion de Atari BreakOut 1976 para Arduino - Ateve Wozniak - Steve Jobs - Nolan Bushnell
+ Emulacion de Atari BreakOut 1976 para Arduino - Steve Wozniak - Steve Jobs - Nolan Bushnell
  
  Componentes usados y conexiones:
  
